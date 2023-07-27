@@ -29,4 +29,4 @@ const tarifasPorKilometro = {
     // Mostrar el resultado
     alert("El total a pagar es: $" + totalAPagar.toFixed(2) + " MXN");
   } else {
-    alert("El tipo de vehículo ingresado no es válido.");
+    alert("El tipo de vehículo ingresado no es válido.")}
