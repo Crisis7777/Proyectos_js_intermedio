@@ -9,4 +9,4 @@ for (let i = 0; i < 10; i++) {
 }
 
 // Mostrar el resultado del array en la consola
-console.log(numerosAleatorios);
+x
